@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <info type ="phone">Phone</info>
+        <company>Huawei</company>
+        <model>A5</model>
+        <color>Black</color>
+        <weight>200</weight>
+        <price>400</price>
+    </product>
+    <product>
+        <info type ="phone">Phone</info>
+        <company>Apple</company>
+        <model>Iphone 13</model>
+        <color>Red</color>
+        <weight>200</weight>
+        <price>3600</price>
+    </product>
+    <product>
+        <info type ="kettle">Kettle</info>
+        <company>Bosch</company>
+        <model>1800/a6</model>
+        <price>300</price>
+        <power_consumption>1800</power_consumption>
+        <volume>2.0</volume>
+        <weight>700</weight>
+    </product>
+    <product>
+        <info type ="laptop">Laptop</info>
+        <company>Lenovo</company>
+        <model>Legion Y540</model>
+        <price>2320</price>
+        <screen_inches>17</screen_inches>
+        <operating_system>Windows 10</operating_system>
+        <weight>2000</weight>
+        <graphic_card>gtx1060ti</graphic_card>
+    </product>
+    <product>
+        <info type ="kettle">Kettle</info>
+        <company>Bosch</company>
+        <price>450</price>
+        <model>450-a</model>
+        <power_consumption>2100</power_consumption>
+        <volume>1.9</volume>
+        <weight>800</weight>
+    </product>
+    <product>
+        <info type ="phone">Phone</info>
+        <company>Nokia</company>
+        <model>3310</model>
+        <color>Black</color>
+        <price>90</price>
+        <weight>150</weight>
+    </product>
+    <product>
+        <info type ="laptop">Laptop</info>
+        <company>ASUS</company>
+        <price>1400</price>
+        <model>H12</model>
+        <screen_inches>15</screen_inches>
+        <operating_system>Windows 8</operating_system>
+        <weight>1200</weight>
+        <graphic_card>AMD Radeon R230</graphic_card>
+    </product>
+    <product>
+        <info type ="kettle">Kettle</info>
+        <company>Philips</company>
+        <price>260</price>
+        <model>1600/18</model>
+        <power_consumption>1600</power_consumption>
+        <volume>1.5</volume>
+        <weight>1600</weight>
+    </product>
+    <product>
+        <info type ="Fridge">Fridge</info>
+        <company>Atlant</company>
+        <price>2450</price>
+        <model>12A-2015</model>
+        <power_consumption>2800</power_consumption>
+        <volume>212</volume>
+        <weight>59</weight>
+    </product>
+</products>
